@@ -13,7 +13,7 @@ def main():
     goodbye("Bashful")
     hello("Grumpy")
     hello("Sleepy")
-    hello_and_goodbye("Magic Micror", "Cruel Queen")
+    hello_and_goodbye("Magic Mirror", "Cruel Queen")
 
 
 def hello(friend):
